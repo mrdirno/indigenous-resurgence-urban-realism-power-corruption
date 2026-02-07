@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_urban_realism_power_corruption",
+  "title": "Raven's Garden",
+  "tagline": "To save a city, you must first hold the ground.",
+  "target_words": 70000,
+  "actual_words": 71261,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Reclamation of Urban Space",
+    "Corruption as a Colonial Continuum",
+    "Intergenerational Trauma and Power",
+    "Indigenous Kinship vs. Institutional Power"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Messenger",
+      "words": 2970
+    },
+    {
+      "ch": 2,
+      "title": "The Proposition",
+      "words": 2960
+    },
+    {
+      "ch": 3,
+      "title": "The Dream of Ash",
+      "words": 2970
+    },
+    {
+      "ch": 4,
+      "title": "Uncle's Tools",
+      "words": 2970
+    },
+    {
+      "ch": 5,
+      "title": "City Hall's Smile",
+      "words": 2970
+    },
+    {
+      "ch": 6,
+      "title": "The Ledger",
+      "words": 2970
+    },
+    {
+      "ch": 7,
+      "title": "Kelsey's Fire",
+      "words": 2970
+    },
+    {
+      "ch": 8,
+      "title": "Auntie Dee's Map",
+      "words": 2970
+    },
+    {
+      "ch": 9,
+      "title": "The Ground Beneath the Pavement",
+      "words": 2970
+    },
+    {
+      "ch": 10,
+      "title": "Mixed-Use Potential",
+      "words": 2970
+    },
+    {
+      "ch": 11,
+      "title": "The Pawn Shop Meeting",
+      "words": 2970
+    },
+    {
+      "ch": 12,
+      "title": "Blood and Soil",
+      "words": 2970
+    },
+    {
+      "ch": 13,
+      "title": "The Crane's Shadow",
+      "words": 2970
+    },
+    {
+      "ch": 14,
+      "title": "A Complicated Current",
+      "words": 2970
+    },
+    {
+      "ch": 15,
+      "title": "The Suit's Offer",
+      "words": 2970
+    },
+    {
+      "ch": 16,
+      "title": "What the Raven Stole",
+      "words": 2970
+    },
+    {
+      "ch": 17,
+      "title": "The Willows Stands",
+      "words": 2970
+    },
+    {
+      "ch": 18,
+      "title": "Tools of the Land",
+      "words": 2970
+    },
+    {
+      "ch": 19,
+      "title": "The Pattern of the Stain",
+      "words": 2970
+    },
+    {
+      "ch": 20,
+      "title": "The Mayor's Dinner",
+      "words": 2970
+    },
+    {
+      "ch": 21,
+      "title": "The Old Rail Yard",
+      "words": 2970
+    },
+    {
+      "ch": 22,
+      "title": "The Messy Kind",
+      "words": 2970
+    },
+    {
+      "ch": 23,
+      "title": "Holding the Ground",
+      "words": 2970
+    },
+    {
+      "ch": 24,
+      "title": "Yéil's Laugh",
+      "words": 2971
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character uses a traditional story or teaching to outmaneuver a modern bureaucratic system.",
+      "Draft a confrontation between Kelsey and a city planner at a public forum about the garden's future.",
+      "Create a flashback scene showing Manny's mother building the first garden bed, weaving in a memory of her and Ricky.",
+      "Write a monologue from Aidan Lynch's perspective, justifying his 'development' plans to himself in the mirror."
+    ],
+    "technical": [
+      "Build an interactive map of the novel's setting, layering the Sḵwx̱wú7mesh place names, character movements, and points of conflict over a modern Vancouver street grid.",
+      "Create a 'Corruption Ledger' visualization that tracks the flow of money, favors, and land from city officials to developers, as revealed in the plot."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Eden Robinson",
+      "Richard Wagamese",
+      "James Ellroy",
+      "China Miéville"
+    ]
+  },
+  "cover_prompt": "A determined young Indigenous woman stands her ground, hands gripping a chain-link fence as she confronts a bulldozer, her expression a mix of defiance and ancestral sorrow, [Detailed Scene & Context: set in a contested urban lot where wildflowers and medicinal plants push through cracked asphalt, with a decaying high-rise and a construction crane looming in the foggy background, symbolizing the clash of worlds], [Artistic Style & Medium: in the atmospheric, textured style of Kent Monkman's narrative realism and the gritty urban detail of Alex Webb's photography, rendered with the emotional depth of oil painting and photographic realism], [Composition & Camera: book cover framing with a centered, intimate portrait that pulls into a wider environmental story, using a dramatic low-angle to empower the subject and emphasize the looming threat], [Lighting & Color Palette: dramatic chiaroscuro lighting cutting through the urban haze, with a palette of concrete grey, rusted orange, and deep forest green punctuated by the vibrant purple of resilient fireweed flowers], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
