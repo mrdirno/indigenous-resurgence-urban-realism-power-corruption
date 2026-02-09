@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The raven landed on the chain-link fence just as the cop car turned the corner, its blue and red lights cutting the pre-dawn grey into jagged slices. It didn’t caw. Just watched, head cocked, one oil-slick eye fixed on Manny as he froze, one hand on the cold steel of the community garden gate.
@@ -129,6 +131,8 @@ The wind shifted, blowing smoke from the drum into Manny’s face. For a second,
 He looked at his uncle, at the fierce, desperate hope in his weathered face. He thought of the raven, watching, waiting to see what he would do.
 
 “Tell me about the fundraiser,” Manny said.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -281,6 +285,8 @@ Kelsey stopped walking. “He *what*?”
 “He knows who you are,” Kelsey said, her voice hollow with dread. “Not Manny the server. He knows you’re from the garden. From The Willows. Lynch would have told him. They have files, Manny. On everyone who’s a ‘problem.’” She hugged herself. “This wasn’t us observing them. This was them observing *us*.”
 
 The mist turned to a light rain. The city around them felt suddenly darker, more watchful. They had gone looking for a weakness in the fortress. But as they stood on the empty, rain-slicked street, Manny felt the unsettling certainty that the fortress had looked right back.
+
+# Chapter 3
 
 ## CHAPTER 3
 
